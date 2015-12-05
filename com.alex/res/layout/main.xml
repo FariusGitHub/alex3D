@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+	
+	<item android:id="@+id/armonly" 	android:icon="@drawable/armonly"	/>
+	<item android:id="@+id/legonly" 	android:icon="@drawable/legonly"	/>
+	<item android:id="@+id/headonly" 	android:icon="@drawable/headonly"	/>
+	<item android:id="@+id/armleg"  	android:icon="@drawable/armleg"	/>
+	<item android:id="@+id/armhead"  	android:icon="@drawable/headarm"	/>
+	<item android:id="@+id/leghead" 	android:icon="@drawable/headleg"	/>
+		
+</menu>
